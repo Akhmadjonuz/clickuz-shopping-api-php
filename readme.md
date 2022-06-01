@@ -1,5 +1,5 @@
 <h1> Created by @Akhmadjon</h1>
-<p>
+<p style="font-family:Consolas,Monaco,Lucida Console,Liberation Mono,DejaVu Sans Mono,Bitstream Vera Sans Mono,Courier New, monospace;">
 1. MySQL uchun table yaratib olamiz.
 
 CREATE TABLE IF NOT EXISTS `clickuz` (
