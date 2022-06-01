@@ -11,7 +11,7 @@
 ) ENGINE=InnoDB AUTO_INCREMENT=261 DEFAULT CHARSET=utf8;<br/><br/>2. lib.php ni o'zimizga bazamizga moslab login parollarni kiritamiz.<br/><br/>3. comp.php va pre.php ni ham o'zimizga moslab taxrirlaymiz, secret key bilan user id ni kiritamiz.<br/><br/>4. https://merchant.click.uz/home/service ga kirib Prepare URL (Адрес проверки) ushbu bo'limga pre.php uchun urlni ko'rsatamiz,
 Complete URL (Адрес результата) urlga kirib comp.php uchun urlni ko'rsatamiz.<br/><br/>5. hamasini to'g'ri qilgan bo'lsangiz aniq ishlaydi.
 </p>
-
+<p>
 # Mualliflik huquqi saqlansin!
 # dadabayev.uz
 # +998902224311
@@ -26,5 +26,7 @@ Complete URL (Адрес результата) urlga kirib comp.php uchun urlni 
 # dadabayev.uz
 # +998902224311
 # telegram: @Akhmadjon
-	
-https://github.com/Akhmadjonuz/Clickuz-Button-Api-php
+</p>
+
+<h2>Если вам нужен другой API</h2>
+<a href="https://github.com/Akhmadjonuz/Clickuz-Button-Api-php">Click button API PHP</a>
