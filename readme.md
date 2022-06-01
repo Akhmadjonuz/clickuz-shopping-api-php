@@ -12,20 +12,20 @@
 Complete URL (Адрес результата) urlga kirib comp.php uchun urlni ko'rsatamiz.<br/><br/>5. hamasini to'g'ri qilgan bo'lsangiz aniq ishlaydi.
 </p>
 <p>
-# Mualliflik huquqi saqlansin!
-# dadabayev.uz
-# +998902224311
-# telegram: @Akhmadjon
+Mualliflik huquqi saqlansin!
+dadabayev.uz
++998902224311
+telegram: @Akhmadjon
 
-# Copyright reserved!
-# dadabayev.uz
-# +998902224311
-# telegram: @Akhmadjon
+Copyright reserved!
+dadabayev.uz
++998902224311
+telegram: @Akhmadjon
 
-# Авторские права защищены!
-# dadabayev.uz
-# +998902224311
-# telegram: @Akhmadjon
+Авторские права защищены!
+dadabayev.uz
++998902224311
+telegram: @Akhmadjon
 </p>
 
 <h2>Если вам нужен другой API</h2>
