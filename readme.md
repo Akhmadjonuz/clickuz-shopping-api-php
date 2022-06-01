@@ -11,14 +11,9 @@
 ) ENGINE=InnoDB AUTO_INCREMENT=261 DEFAULT CHARSET=utf8;<br/><br/>2. lib.php ni o'zimizga bazamizga moslab login parollarni kiritamiz.<br/><br/>3. comp.php va pre.php ni ham o'zimizga moslab taxrirlaymiz, secret key bilan user id ni kiritamiz.<br/><br/>4. https://merchant.click.uz/home/service ga kirib Prepare URL (Адрес проверки) ushbu bo'limga pre.php uchun urlni ko'rsatamiz,
 Complete URL (Адрес результата) urlga kirib comp.php uchun urlni ko'rsatamiz.<br/><br/>5. hamasini to'g'ri qilgan bo'lsangiz aniq ishlaydi.
 </p>
+<hr>
 <p>
-Mualliflik huquqi saqlansin!
-dadabayev.uz
-+998902224311
-telegram: @Akhmadjon
-
-Copyright reserved!
-dadabayev.uz
+Mualliflik huquqi saqlansin!<br/>dadabayev.uz<br/>+998902224311<br/>telegram: @Akhmadjon<br/><br/>Copyright reserved!<br/>dadabayev.uz
 +998902224311
 telegram: @Akhmadjon
 
