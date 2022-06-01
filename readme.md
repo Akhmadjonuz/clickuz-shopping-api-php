@@ -1,4 +1,4 @@
-<h1> Created by @Akhmadjon</h1>
+<h1> Created by <a href="https://t.me/akhmadjon/">@Akhmadjon</a></h1>
 <p style="font-family:Consolas,Monaco,Lucida Console,Liberation Mono,DejaVu Sans Mono,Bitstream Vera Sans Mono,Courier New, monospace;">
 1. MySQL uchun table yaratib olamiz.<br/><br/>CREATE TABLE IF NOT EXISTS `clickuz` (
   `id` int(11) NOT NULL,
