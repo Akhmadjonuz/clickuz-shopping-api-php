@@ -13,9 +13,7 @@ Complete URL (Адрес результата) urlga kirib comp.php uchun urlni 
 </p>
 <hr>
 <p>
-Mualliflik huquqi saqlansin!<br/>dadabayev.uz<br/>+998902224311<br/>telegram: @Akhmadjon<br/><br/>Copyright reserved!<br/>dadabayev.uz
-+998902224311
-telegram: @Akhmadjon
+Mualliflik huquqi saqlansin!<br/>dadabayev.uz<br/>+998902224311<br/>telegram: @Akhmadjon<br/><br/>Copyright reserved!<br/>dadabayev.uz<br/>+998902224311<br/>telegram: @Akhmadjon
 
 Авторские права защищены!
 dadabayev.uz
