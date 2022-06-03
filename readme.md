@@ -17,4 +17,4 @@ Mualliflik huquqi saqlansin!<br/><a href="https://dadabayev.uz">dadabayev.uz</a>
 </p>
 <hr>
 <h2>Если вам нужен другой API</h2>
-<a href="https://github.com/Akhmadjonuz/Clickuz-Button-Api-php">Click button APIPHP</a>
+<a href="https://github.com/Akhmadjonuz/Clickuz-Button-Api-php">Click button API PHP</a>
