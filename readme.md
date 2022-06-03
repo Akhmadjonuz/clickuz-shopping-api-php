@@ -13,7 +13,7 @@ Complete URL (Адрес результата) urlga kirib comp.php uchun urlni 
 </p>
 <hr>
 <p>
-Mualliflik huquqi saqlansin!<br/><a href="https://dadabayev.uz">dadabayev.uz</a><br/>+998 90 222 4311<br/>telegram: @Akhmadjon<br/><br/>Copyright reserved!<br/><a href="https://dadabayev.uz">dadabayev.uz</a><br/>+998902224311<br/>telegram: @Akhmadjon<br/><br/>Авторские права защищены!<br/><a href="https://dadabayev.uz">dadabayev.uz</a><br/>+998902224311<br/>telegram: @Akhmadjon
+Mualliflik huquqi saqlansin!<br/><a href="https://dadabayev.uz">dadabayev.uz</a><br/>+998 90 222 43 11<br/>telegram: @Akhmadjon<br/><br/>Copyright reserved!<br/><a href="https://dadabayev.uz">dadabayev.uz</a><br/>+998902224311<br/>telegram: @Akhmadjon<br/><br/>Авторские права защищены!<br/><a href="https://dadabayev.uz">dadabayev.uz</a><br/>+998902224311<br/>telegram: @Akhmadjon
 </p>
 <hr>
 <h2>Если вам нужен другой API</h2>
