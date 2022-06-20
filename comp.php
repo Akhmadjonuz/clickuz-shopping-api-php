@@ -62,3 +62,4 @@ if ($_POST['action'] == 1 and $_SERVER['REMOTE_ADDR'] == "83.221.178.214") {
 } else {
   echo json_encode(["error" => "Ushbu url faqat clickuz uchun!\n\ncreated by dadabayev.uz"]);
 }
+?>
