@@ -1,9 +1,9 @@
 <?php
-if (file_exists("lib.php")) {
+if (file_exists("lib.php"))
   include_once("lib.php");
-} else {
+ else
   echo json_encode(array("error" => "lib.php not found !"));
-}
+
 
 //deafult time zone
 date_default_timezone_set('Asia/Tashkent');
