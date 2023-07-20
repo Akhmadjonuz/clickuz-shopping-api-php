@@ -12,9 +12,5 @@
 Complete URL (Адрес результата) urlga kirib comp.php uchun urlni ko'rsatamiz.<br/><br/>5. hamasini to'g'ri qilgan bo'lsangiz aniq ishlaydi.
 </p>
 <hr>
-<p>
-Mualliflik huquqi saqlansin!<br/><a href="https://dadabayev.uz">dadabayev.uz</a><br/>+998 90 222 43 11<br/>telegram: @Akhmadjon<br/><br/>Copyright reserved!<br/><a href="https://dadabayev.uz">dadabayev.uz</a><br/>+998 90 222 43 11<br/>telegram: @Akhmadjon<br/><br/>Авторские права защищены!<br/><a href="https://dadabayev.uz">dadabayev.uz</a><br/>+998 90 222 43 11<br/>telegram: @Akhmadjon
-</p>
-<hr>
 <h2>Если вам нужен другой API</h2>
 <a href="https://github.com/Akhmadjonuz/Clickuz-Button-Api-php">Click button API PHP</a>
